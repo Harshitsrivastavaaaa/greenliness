@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Harshitsrivastavaaaa/greenliness/static/css/main.a9b3dab1.css",
+    "main.js": "/Harshitsrivastavaaaa/greenliness/static/js/main.1f180e1a.js",
+    "static/js/453.aac25d85.chunk.js": "/Harshitsrivastavaaaa/greenliness/static/js/453.aac25d85.chunk.js",
+    "static/media/P2.jpg": "/Harshitsrivastavaaaa/greenliness/static/media/P2.276dfed75586f396bf34.jpg",
+    "index.html": "/Harshitsrivastavaaaa/greenliness/index.html",
+    "main.a9b3dab1.css.map": "/Harshitsrivastavaaaa/greenliness/static/css/main.a9b3dab1.css.map",
+    "main.1f180e1a.js.map": "/Harshitsrivastavaaaa/greenliness/static/js/main.1f180e1a.js.map",
+    "453.aac25d85.chunk.js.map": "/Harshitsrivastavaaaa/greenliness/static/js/453.aac25d85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9b3dab1.css",
+    "static/js/main.1f180e1a.js"
+  ]
+}
