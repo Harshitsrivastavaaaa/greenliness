@@ -45,3 +45,17 @@ code {
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.navStyle {
+  background-color: transparent;
+  position: sticky;
+  padding: 10px;
+}
+
+.LS{
+  text-decoration: none;
+  font-size: 15px;
+  color: black;
+  margin-right: 20px;
+  text-shadow: 1px 1px 3px rgba(31, 31, 31, 0.8);
+}
