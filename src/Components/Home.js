@@ -8,7 +8,7 @@ function Home() {
       </div>
       <div className="Home">
         <h1 className="title">Greenliness</h1>
-        <p className="subtitle">Your one-stop solution for eco-friendly products and tips.</p>
+        <p className="subtitle">Together for Nature, United for a Greener Future</p>
       </div>
     </div>
     </>
