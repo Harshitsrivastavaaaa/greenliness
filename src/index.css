@@ -12,9 +12,36 @@ code {
     monospace;
 }
 
-.Homewall1 {
+.wallpaper {
   width: 100%;
-  height: auto;
-  border-radius: 10px;
-  margin-top: 20px;
+  height: 100%;
+  z-index: -1;
+  position: absolute;
+  top: 0;
+  left: 0;
+  /* opacity: 0.5; */
+  filter: blur(2px);
+  object-fit: cover;
+}
+
+.title {
+  position: relative;
+  z-index: 1;
+  color: white;
+  text-align: center;
+  margin-top: 16%;
+  font-size: 60px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.subtitle {
+  position: relative;
+  z-index: 1;
+  color: white;
+  text-align: center;
+  font-size: 24px;
+  margin-top: -25px;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }

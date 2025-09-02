@@ -4,10 +4,10 @@ function Home() {
     <>
     <div className="Homewall">
       <div>
-      <img src={P2} alt="Greenliness Wall" className="Homewall1"/>
+        <img src={P2} alt="Greenliness Wall" className="wallpaper"/>
       </div>
       <div className="Home">
-        <h1 className="title">Welcome to Greenliness</h1>
+        <h1 className="title">Greenliness</h1>
         <p className="subtitle">Your one-stop solution for eco-friendly products and tips.</p>
       </div>
     </div>
