@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Harshitsrivastavaaaa/greenliness/static/css/main.a9b3dab1.css",
-    "main.js": "/Harshitsrivastavaaaa/greenliness/static/js/main.5ff3d704.js",
-    "static/js/453.aac25d85.chunk.js": "/Harshitsrivastavaaaa/greenliness/static/js/453.aac25d85.chunk.js",
-    "static/media/P2.jpg": "/Harshitsrivastavaaaa/greenliness/static/media/P2.276dfed75586f396bf34.jpg",
-    "index.html": "/Harshitsrivastavaaaa/greenliness/index.html",
-    "main.a9b3dab1.css.map": "/Harshitsrivastavaaaa/greenliness/static/css/main.a9b3dab1.css.map",
-    "main.5ff3d704.js.map": "/Harshitsrivastavaaaa/greenliness/static/js/main.5ff3d704.js.map",
-    "453.aac25d85.chunk.js.map": "/Harshitsrivastavaaaa/greenliness/static/js/453.aac25d85.chunk.js.map"
+    "main.css": "/greenliness/static/css/main.a9b3dab1.css",
+    "main.js": "/greenliness/static/js/main.8b5b0e95.js",
+    "static/js/453.aac25d85.chunk.js": "/greenliness/static/js/453.aac25d85.chunk.js",
+    "static/media/P2.jpg": "/greenliness/static/media/P2.276dfed75586f396bf34.jpg",
+    "index.html": "/greenliness/index.html",
+    "main.a9b3dab1.css.map": "/greenliness/static/css/main.a9b3dab1.css.map",
+    "main.8b5b0e95.js.map": "/greenliness/static/js/main.8b5b0e95.js.map",
+    "453.aac25d85.chunk.js.map": "/greenliness/static/js/453.aac25d85.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a9b3dab1.css",
-    "static/js/main.5ff3d704.js"
+    "static/js/main.8b5b0e95.js"
   ]
 }
