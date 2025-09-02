@@ -14,6 +14,7 @@ root.render(
       <Routes>
       <Route path='/' element={<Home/>} />
       <Route path='/greenliness' element={<Home/>} />
+      <Route path='/Harshitsrivastavaaaa/greenliness' element={<Home/>} />
       <Route path='/Signup' element={<Signup />} />
 
     </Routes>
