@@ -11,60 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-
-.title {
-  position: relative;
-  z-index: 1;
-  color: white;
-  text-align: center;
-  margin-top: 60px;
-  font-size: 80px;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-.subtitle {
-  position: relative;
-  z-index: 1;
-  color: white;
-  text-align: center;
-  font-size: 24px;
-  margin-top: -25px;
-  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-.navStyle {
-  background-color: transparent;
-  position: sticky;
-  padding: 10px;
-}
-.navSignup{
-  position: absolute;
-  top: 10px;
-  right: 20px;
-}
-
-.LS{
-  text-decoration: none;
-  font-size: 15px;
-  color: rgb(255, 255, 255);
-  margin-right: 20px;
-  text-shadow: 1px 1px 3px rgba(31, 31, 31, 0.8);
-}
-
-body{
-  background-color: #000000;
-}
-
-.about{
-  color: white;
-  text-align: center;
-  font-size: 20px;
-  margin: 50px;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
+/* HOME CSS */
 .logo{
   width: 150px;
   height: 150px;
@@ -76,7 +23,6 @@ body{
   box-shadow: #000000 0px 4px 8px 0px, rgba(0, 0, 0, 0.2) 0px 6px 20px 0px;
   /* border: #000000 solid 5px; */
 }
-
 .background{
   position: fixed;
   top: 0;
@@ -87,6 +33,54 @@ body{
   z-index: -1;
   /* opacity: 0.6; */
   filter: blur(6px);
+}
+.title {
+  position: relative;
+  z-index: 1;
+  color: white;
+  text-align: center;
+  margin-top: 60px;
+  font-size: 80px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.subtitle {
+  position: relative;
+  z-index: 1;
+  color: white;
+  text-align: center;
+  font-size: 24px;
+  margin-top: -25px;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* HOME CSS ENDS */
+/* NAVBAR CSS */
+.navStyle {
+  background-color: transparent;
+  position: sticky;
+  padding: 10px;
+}
+.navSignup{
+  position: absolute;
+  top: 10px;
+  right: 20px;
+}
+.LS{
+  text-decoration: none;
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+  margin-right: 20px;
+  text-shadow: 1px 1px 3px rgba(31, 31, 31, 0.8);
+}
+/* NAVBAR CSS ENDS */
+
+.about{
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  margin: 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .V1{

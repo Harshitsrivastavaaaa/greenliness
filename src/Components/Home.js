@@ -1,5 +1,5 @@
 import L1 from'../Assets/L1.jpg';
-import P1 from'../Assets/P1.jpg';
+import W3 from'../Assets/W3.jpg';
 function Home() {
   return (
     <>
@@ -8,7 +8,7 @@ function Home() {
         <img src={L1} alt="Logo" className="logo" />
       </div>
       <div>
-        <img src={P1} alt="Background" className="background" />
+        <img src={W3} alt="Background" className="background" />
       </div>
       <div>
         <h1 className="title">Greenliness</h1>

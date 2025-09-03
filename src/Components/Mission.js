@@ -1,8 +1,8 @@
-import P1 from'../Assets/P1.jpg';
+import W3 from'../Assets/W3.jpg';
 function Mission() {
     return (
         <><div>
-            <img src={P1} alt="Background" className="background" />
+            <img src={W3} alt="Background" className="background" />
         </div>
         <div className="about">
             <h1>Our Mission</h1>
