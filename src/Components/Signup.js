@@ -1,9 +1,13 @@
 function Signup() {
   return (
     <div className="signup">
-      <h1>Welcome to Signup page</h1>
-      <p>Your one-stop solution for eco-friendly products and tips.</p>
-    </div>
+      <form>
+        <h2>Sign Up</h2>
+        <div className="form-group">
+          <label htmlFor="username">Username:</label>
+          </div>
+      </form>
+      </div>
   );
 }
 

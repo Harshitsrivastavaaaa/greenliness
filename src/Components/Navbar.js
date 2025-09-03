@@ -5,7 +5,7 @@ function Navbar() {
     <nav className="navStyle">
             <Link to={"/"} className="LS"></Link>
             <Link to={"/greenliness"} className="LS">Home</Link>
-            {/* <Link to={"/Harshitsrivastavaaaa/greenliness"} className="LS"></Link> */}
+            <Link to={"/About"} className="LS">About</Link>
             <Link to={"/Signup"} className="LS">Signup</Link>
     </nav>
     </>
