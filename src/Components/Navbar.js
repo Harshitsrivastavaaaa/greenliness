@@ -8,7 +8,9 @@ function Navbar() {
             <Link to={"/About"} className="LS">About</Link>
             <Link to={"/Mission"} className="LS">Mission</Link>
             <Link to={"/Vision"} className="LS">Vision</Link>
-            <Link to={"/Signup"} className="LS">Signup</Link>
+    </nav>
+    <nav className="navSignup">
+      <Link to={"/Signup"} className="LS">Signup</Link>
     </nav>
     </>
     );

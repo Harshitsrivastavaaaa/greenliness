@@ -1,6 +1,10 @@
+import P1 from'../Assets/P1.jpg';
 function Signup() {
   return (
     <><div className="signup">
+      <div>
+        <img src={P1} alt="Background" className="background" />
+      </div>
       <form>
         <h2>Sign Up</h2>
         <div className="form-group">
