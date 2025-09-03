@@ -6,6 +6,8 @@ import Home from './Components/Home';
 import Navbar from './Components/Navbar';
 import Signup from './Components/Signup';
 import About from './Components/About';
+import Mission from './Components/Mission';
+import Vision from './Components/Vision';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -17,6 +19,8 @@ root.render(
       <Route path='/greenliness' element={<Home/>} />
       <Route path='/Harshitsrivastavaaaa/greenliness' element={<Home/>} />
       <Route path='/About' element={<About />} />
+      <Route path='/Mission' element={<Mission />} />
+      <Route path='/Vision' element={<Vision />} />
       <Route path='/Signup' element={<Signup />} />
 
     </Routes>
