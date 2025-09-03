@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/greenliness/static/css/main.a9b3dab1.css",
-    "main.js": "/greenliness/static/js/main.8b5b0e95.js",
+    "main.js": "/greenliness/static/js/main.7bb8b6af.js",
     "static/js/453.aac25d85.chunk.js": "/greenliness/static/js/453.aac25d85.chunk.js",
     "static/media/P2.jpg": "/greenliness/static/media/P2.276dfed75586f396bf34.jpg",
     "index.html": "/greenliness/index.html",
     "main.a9b3dab1.css.map": "/greenliness/static/css/main.a9b3dab1.css.map",
-    "main.8b5b0e95.js.map": "/greenliness/static/js/main.8b5b0e95.js.map",
+    "main.7bb8b6af.js.map": "/greenliness/static/js/main.7bb8b6af.js.map",
     "453.aac25d85.chunk.js.map": "/greenliness/static/js/453.aac25d85.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a9b3dab1.css",
-    "static/js/main.8b5b0e95.js"
+    "static/js/main.7bb8b6af.js"
   ]
 }
