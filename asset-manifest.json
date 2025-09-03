@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/greenliness/static/css/main.66ab60d9.css",
-    "main.js": "/greenliness/static/js/main.d635a961.js",
+    "main.css": "/greenliness/static/css/main.a18c08c4.css",
+    "main.js": "/greenliness/static/js/main.59f2d446.js",
     "static/js/453.aac25d85.chunk.js": "/greenliness/static/js/453.aac25d85.chunk.js",
+    "static/media/W3.jpg": "/greenliness/static/media/W3.a4d4ff7c092ec704730a.jpg",
     "static/media/P1.jpg": "/greenliness/static/media/P1.6a3aec6782789eaac5f8.jpg",
     "static/media/L1.jpg": "/greenliness/static/media/L1.5e90d3a442864eb0e992.jpg",
     "index.html": "/greenliness/index.html",
-    "main.66ab60d9.css.map": "/greenliness/static/css/main.66ab60d9.css.map",
-    "main.d635a961.js.map": "/greenliness/static/js/main.d635a961.js.map",
+    "main.a18c08c4.css.map": "/greenliness/static/css/main.a18c08c4.css.map",
+    "main.59f2d446.js.map": "/greenliness/static/js/main.59f2d446.js.map",
     "453.aac25d85.chunk.js.map": "/greenliness/static/js/453.aac25d85.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.66ab60d9.css",
-    "static/js/main.d635a961.js"
+    "static/css/main.a18c08c4.css",
+    "static/js/main.59f2d446.js"
   ]
 }
