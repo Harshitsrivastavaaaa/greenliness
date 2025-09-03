@@ -58,6 +58,24 @@ code {
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.getStartedLink {
+  text-decoration: none;
+  font-size: 16px;
+  color: white;
+}
+.getStartedButton {
+  position: relative;
+  z-index: 1;
+  display: block;
+  margin: 40px auto;
+  padding: 15px 30px;
+  background-color: var(--primary-color-rgba, 0.5);
+  border: none;
+  border-radius: 25px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.2s;
+}
 /* HOME CSS ENDS */
 /* NAVBAR CSS */
 .navStyle {

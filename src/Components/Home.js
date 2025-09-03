@@ -14,6 +14,9 @@ function Home() {
         <h1 className="title">Greenliness</h1>
         <p className="subtitle">Together for Nature, United for a Greener Future</p>
       </div>
+      <button className="getStartedButton">
+        <a href="/signup" className="getStartedLink">Join Our Team</a>
+      </button>
     </div></>
   );
 }
