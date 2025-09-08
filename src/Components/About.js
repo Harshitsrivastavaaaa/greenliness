@@ -6,20 +6,18 @@ function About() {
     <div>
       <img src={W3} alt="Background" className="background" />
     </div>
-      <div className="A1">
-        <div>
-          <img src={P8} alt="Logo" className="logoA" />
-        </div>
-        <div className="A2">
-          <h1 className="atitle">About Greenliness</h1>
-          <p className="asubtitle">
-            Greenliness is a passionate team of environmental advocates, educators, and innovators committed to 
-            making a difference. We work tirelessly to raise awareness about pressing environmental issues such 
-            as climate change, pollution, deforestation, and waste management. Through our platform, we empower 
-            people to take meaningful steps toward sustainability in their daily lives.
-          </p>
-        </div>
-      </div>
+    <div>
+      
+    </div>
+    <div className="footer">
+                <p><center>© 2025 Greenliness Inc. All rights reserved.</center></p>
+                <p><center>Social Media:  
+                    <a className="link1" href="https://www.facebook.com">Facebook</a>  
+                    <a className="link1" href="https://www.twitter.com">Twitter</a>
+                    <a className="link1" href="https://www.instagram.com">Instagram</a> 
+                    <a className="link1" href="https://api.whatsapp.com/send/?phone=%2B917838217830&text&type=phone_number&app_absent=0">Whatsapp</a>
+                </center></p>
+            </div>
     </>
   );
 }

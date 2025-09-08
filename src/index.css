@@ -111,7 +111,7 @@ code {
   margin-left: 75%;
   margin-right: auto;
   border-radius: 25px;
-  margin-top: 20px;
+  margin-top: 80px;
   box-shadow: #000000 0px 4px 8px 0px, rgba(0, 0, 0, 0.2) 0px 6px 20px 0px;
 }
 .atitle{
@@ -135,7 +135,7 @@ code {
 /* Vision CSS */
 .V1{
   color: rgb(255, 255, 255);
-  text-align: center;
+  text-align: justify;
   font-size: 20px;
   margin: 50px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -143,16 +143,24 @@ code {
 }
 .V2{
   color: white;
-  text-align: center;
+  text-align: justify;
   font-size: 20px;
   margin: 50px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-shadow: 1px 1px 3px rgba(31, 31, 31, 0.8);
 }
+.VT{
+  text-align: center;
+  color: white;
+  font-size: 50px;
+  /* margin-top: -550px; */
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
 /* Mission CSS */
 .M1{
   color: white;
-  text-align: center;
+  text-align: justify;
   font-size: 20px;
   margin: 50px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -220,3 +228,22 @@ code {
   background-color: #004085;
 }
 /* SIGNUP CSS ENDS */
+.footer {
+  background-color: transparent;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.link1{
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+.link1:hover {
+  text-decoration: underline;
+}

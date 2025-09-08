@@ -13,6 +13,15 @@ function Signup() {
         <button type="submit" className="submitButton">Register</button>
       </form>
     </div>
+    <div className="footer">
+                <p><center>© 2025 Greenliness Inc. All rights reserved.</center></p>
+                <p><center>Social Media:  
+                    <a className="link1" href="https://www.facebook.com">Facebook</a>  
+                    <a className="link1" href="https://www.twitter.com">Twitter</a>
+                    <a className="link1" href="https://www.instagram.com">Instagram</a> 
+                    <a className="link1" href="https://api.whatsapp.com/send/?phone=%2B917838217830&text&type=phone_number&app_absent=0">Whatsapp</a>
+                </center></p>
+            </div>
     </>
   );
 }
