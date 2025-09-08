@@ -23,7 +23,7 @@ code {
   margin-left: auto;
   margin-right: auto;
   border-radius: 50%;
-  margin-top: 30px;
+  margin-top: 70px;
   box-shadow: #000000 0px 4px 8px 0px, rgba(0, 0, 0, 0.2) 0px 6px 20px 0px;
   /* border: #000000 solid 5px; */
 }
@@ -80,13 +80,16 @@ code {
 /* NAVBAR CSS */
 .navStyle {
   background-color: transparent;
-  position: sticky;
-  padding: 10px;
+  position: fixed;
+  width: 100%;
+  top: 10px;
+  padding: 2px;
 }
 .navSignup{
   position: absolute;
   top: 10px;
   right: 20px;
+  position: fixed;
 }
 .LS{
   text-decoration: none;
@@ -134,7 +137,7 @@ code {
 
 /* Vision CSS */
 .V1{
-  color: rgb(255, 255, 255);
+  color: white;
   text-align: justify;
   font-size: 20px;
   margin: 50px;
@@ -246,4 +249,30 @@ code {
 }
 .link1:hover {
   text-decoration: underline;
+}
+.AT{
+  text-align: center;
+  color: white;
+  font-size: 50px;
+  margin-top: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+#AP{
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  color: white;
+  border-radius: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+.img{
+  width: 320px;
+  height: 500px;
+  display: block;
+  margin-left: 70%;
+  margin-right: auto;
+  border-radius: 25px;
+  box-shadow: #000000 0px 4px 8px 0px, rgba(0, 0, 0, 0.2) 0px 6px 20px 0px;
 }

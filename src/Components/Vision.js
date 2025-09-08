@@ -12,7 +12,6 @@ function Vision() {
         one action at a time.</p>
       </div>
       <div >
-        <h1 className="VT">What we do</h1>
         <p className="V2">
           <ul>
             <li>Educational Campaigns: Offering informative content, workshops, and events to increase understanding of environmental challenges and solutions.<br></br></li>

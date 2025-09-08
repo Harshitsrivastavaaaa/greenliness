@@ -7,7 +7,13 @@ function About() {
       <img src={W3} alt="Background" className="background" />
     </div>
     <div>
-      
+      <h1 className="AT">About Us</h1>
+      <div id="AP">
+        <p>HELLO paragraph</p>
+      </div>
+      <div id="Aimg">
+        <img src={P8} alt="About Us" className="img" />
+      </div>
     </div>
     <div className="footer">
                 <p><center>© 2025 Greenliness Inc. All rights reserved.</center></p>
