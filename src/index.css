@@ -2,7 +2,6 @@
   --primary-color: #007BFF;
   --primary-color-rgba: 0, 123, 255;
 }
-
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -15,6 +14,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
 /* HOME CSS */
 .logo{
   width: 150px;
@@ -174,9 +174,13 @@ code {
 /* SIGNUP CSS */
 /* Container Styles */
 .signupForm {
-  max-width: 350px;
-  padding: 70px;
-  margin-left: 30%;
+  max-width: 300px;
+  padding-left: 25px;
+  padding-right: 60px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-left: 35%;
+  margin-top: 90px;
   background-color: #e0e0e0;
   border-radius: 10px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
@@ -186,9 +190,9 @@ code {
 /* Title Styles */
 .stitle {
   text-align: center;
-  margin-bottom: 20px;
-  color: #333;
-  font-size: 2em;
+  padding-left: 30px;
+  color: #01741a;
+  font-size: 40px;
 }
 
 /* Input Fields */
@@ -196,7 +200,7 @@ code {
   width: 100%;
   padding: 12px 15px;
   margin-bottom: 15px;
-  border: 2px solid #ccc;
+  border: 2px solid white;
   border-radius: 8px;
 
 }
@@ -208,20 +212,20 @@ code {
 
 /* Submit Button */
 .submitButton {
-  width: 100%;
-  padding: 12px 15px;
+  width: 111%;
+  padding: 12px 12px;
   background-color: var(--primary-blue);
-  color: #fff;
+  background-color: #01741a;
   border: none;
   border-radius: 8px;
-  font-size: 1.1em;
+  font-size: 15px;
   cursor: pointer;
   transition: background-color 0.3s, transform 0.2s;
 }
 
 /* Hover effect for button */
 .submitButton:hover {
-  background-color: #0056b3;
+  background-color: #003615;
   transform: translateY(-2px);
 }
 
@@ -250,37 +254,55 @@ code {
 .link1:hover {
   text-decoration: underline;
 }
+/* Footer CSS ENDS */
+
+/* ABOUT CSS */
+/* ABOUT TITLE */
 .AT{
-  text-align: center;
   color: white;
+  text-align: center;
   font-size: 50px;
   margin-top: 20px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
 }
+/* PARAGRAPH DIV*/
 #AP{
   margin-left: 50px;
-  margin-top: 40px;
   margin-right: 56%;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  padding-top: 50px;
+  color: white;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
   text-align: justify;
 }
+/* DIV OF SIDE IMAGE  */
+#Aimg{
+  margin-top: -430px;
+  margin-left: 850px;
+}
+/* SIDE IMAGE */
 .img{
   width: 320px;
   height: 500px;
-  display: block;
-  margin-left: 70%;
-  margin-right: auto;
   border-radius: 25px;
   box-shadow: #000000 0px 4px 8px 0px, rgba(0, 0, 0, 0.2) 0px 6px 20px 0px;
 }
-.Apara{
+/* ABOUT CSS ENDS */
+/* Vision CSS */
+/* DIV OF SIDE IMAGE  */
+#Vimg{
+  margin-top: -500px;
+  margin-left: 850px;
+}
+/* PARAGRAPH DIV*/
+#VP{
   margin-left: 50px;
-  margin-top: 100px;
   margin-right: 56%;
-  width: 50%;
+  padding-top: 10px;
   color: white;
-  border-radius: 15px;
+  font-size: 20px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
   text-align: justify;
