@@ -63,7 +63,6 @@ code {
 }
 .getStartedButton {
   position: relative;
-  z-index: 1;
   display: block;
   margin: 40px auto;
   padding: 15px 30px;
@@ -78,6 +77,12 @@ code {
   font-size: 16px;
   text-align: center;
   text-decoration: none;
+}
+#getStartedButton:hover{
+  border: 5px solid rgb(255, 39, 39);
+  background-color: rgb(255, 39, 39);
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(7, 7, 7, 0.2);
 }
 
 /* HOME CSS ENDS */
