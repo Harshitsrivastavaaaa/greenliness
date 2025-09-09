@@ -58,9 +58,6 @@ code {
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.getStartedLink {
-  text-decoration: none;
-}
 .getStartedButton {
   position: relative;
   display: block;
@@ -76,15 +73,15 @@ code {
   color: white;
   font-size: 16px;
   text-align: center;
+}
+.getStartedButton:hover {
+  background-color: #01741a;
+  transform: translateY(-2px);
+}
+.Link{
   text-decoration: none;
+  color: white;
 }
-#getStartedButton:hover{
-  border: 5px solid rgb(255, 39, 39);
-  background-color: rgb(255, 39, 39);
-  transform: scale(1.05);
-  box-shadow: 0 4px 8px rgba(7, 7, 7, 0.2);
-}
-
 /* HOME CSS ENDS */
 /* NAVBAR CSS */
 .navStyle {

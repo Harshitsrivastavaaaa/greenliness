@@ -15,7 +15,7 @@ function Home() {
         <h1 className="title">Greenliness</h1>
         <p className="subtitle">Together for Nature, United for a Greener Future</p>
       </div>
-      <Link to="/signup">
+      <Link to="/signup" className="Link">
         <button className="getStartedButton">Join Our Team</button>
       </Link>
     </div></>
