@@ -9,7 +9,13 @@ function About() {
     <div>
       <h1 className="AT">About Us</h1>
       <div id="AP">
-        <p>HELLO paragraph</p>
+        <p className="Apara">Greenliness is a dedicated environmental organization committed to promoting sustainability and 
+          fostering a greener, healthier planet. Focused on innovative eco-friendly solutions, Greenliness 
+          works with communities, businesses, and policymakers to reduce carbon footprints, enhance recycling
+          efforts, and implement renewable energy initiatives. Through education, advocacy, and hands-on projects,
+          Greenliness strives to raise awareness about environmental challenges and inspire actionable change for
+          a sustainable future. Their mission is to create a cleaner, greener world for current and future 
+          generations</p>
       </div>
       <div id="Aimg">
         <img src={P8} alt="About Us" className="img" />
