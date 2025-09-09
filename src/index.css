@@ -60,8 +60,6 @@ code {
 }
 .getStartedLink {
   text-decoration: none;
-  font-size: 16px;
-  color: white;
 }
 .getStartedButton {
   position: relative;
@@ -75,7 +73,13 @@ code {
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
   cursor: pointer;
   transition: background-color 0.3s, transform 0.2s;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
 }
+
 /* HOME CSS ENDS */
 /* NAVBAR CSS */
 .navStyle {

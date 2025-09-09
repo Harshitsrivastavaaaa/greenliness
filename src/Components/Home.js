@@ -1,5 +1,6 @@
 import L1 from'../Assets/L1.jpg';
 import W3 from'../Assets/W3.jpg';
+import { Link } from 'react-router-dom';
 function Home() {
   return (
     <>
@@ -14,9 +15,9 @@ function Home() {
         <h1 className="title">Greenliness</h1>
         <p className="subtitle">Together for Nature, United for a Greener Future</p>
       </div>
-      <button className="getStartedButton">
-        <a href="/signup" className="getStartedLink">Join Our Team</a>
-      </button>
+      <Link to="/signup">
+        <button className="getStartedButton">Join Our Team</button>
+      </Link>
     </div></>
   );
 }
